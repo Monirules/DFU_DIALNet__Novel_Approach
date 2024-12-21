@@ -1,4 +1,19 @@
-In recent years, the intersection of healthcare and cutting-edge technology has paved the way for transformative advancements, offering innovative solutions to longstanding challenges. One such critical issue is the early detection and management of diabetic foot ulcers, a complication that significantly impacts the quality of life for individuals living with diabetes. In response to this pressing healthcare concern, the present project, titled "Diabetic Foot Ulcer Detection using Machine Learning," embarks on a journey to leverage the prowess of state-of-the-art technologies to revolutionize the diagnostic landscape.
+# DFU_DIALNet: A Novel Approach for Diabetic Foot Ulcer Detection
+
+This project focuses on using machine learning and deep learning to detect diabetic foot ulcers (DFU). The novel DFU_DIALNet approach achieved an accuracy of 99.33%, and the model decisions are interpreted using LIME and Grad-CAM.
+
+## Features:
+- **High Accuracy**: DFU_DIALNet achieves 99.33% accuracy.
+- **Interpretability**: LIME and Grad-CAM are used to explain the model's decisions.
+- **Web Application**: A complete web app to predict foot ulcers.
+
+## Demo
+Live Demo: [DFU Prediction App](https://footulcer-bd.onrender.com)
+
+## Technologies Used:
+- **Deep Learning Models**: DFU_DIALNet
+- **Interpretability Tools**: LIME, Grad-CAM
+- **Web Hosting**: Render
 
 This webapp is hosted on - https://footulcer-bd.onrender.com
 
